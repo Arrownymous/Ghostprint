@@ -36,6 +36,6 @@ MIT License — vrij te gebruiken, aan te passen en commercieel in te zetten.
 Zie het LICENSE-bestand voor details.
 
 ## ✉️ Contact
-Made with ❤️ by Stijn Schoonderwoerd
+Made with ❤️ by [Stijn Schoonderwoerd](https://www.linkedin.com/in/stijn-s-1a6b10141/)
 
 > "In een wereld waarin alles online blijft, helpt Ghostprint je om weer even onzichtbaar te worden."
