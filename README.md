@@ -16,6 +16,8 @@ Ghostprint helpt je te begrijpen waar jouw e-mailadres mogelijk online opduikt. 
 - Simpele frontend (HTML + JavaScript) inbegrepen
 - Voorbereid op uitbreiding naar echte OSINT-integraties
 
+---
+
 ## Bestandsoverzicht
 
 ghostprint/
@@ -26,62 +28,6 @@ ghostprint/
 ├── README.md
 └── requirements.txt    # (optioneel, zie onder)
 
-## Installatie
-
-1. Clone het project
-
-git clone https://github.com/jouwgebruikersnaam/ghostprint.git
-cd ghostprint
-
-2. Start een virtuele omgeving
-
-python -m venv venv
-venv\Scripts\activate     # Windows
-# source venv/bin/activate  # macOS/Linux
-
-3. Installeer vereisten
-
-pip install flask
-
-(of gebruik: pip install -r requirements.txt als die aanwezig is)
-
-## API gebruiken
-
-Start de server:
-
-python main.py
-
-### POST /api/scan
-
-**URL:** http://127.0.0.1:5000/api/scan  
-**Headers:** Content-Type: application/json  
-**Body:**
-
-{
-  "email": "jan@example.com"
-}
-
-**Response:**
-
-{
-  "scan_id": "uuid-...",
-  "result": {
-    "email": "jan@example.com",
-    "accounts_found": [
-      "github.com/jan",
-      "linkedin.com/in/jan"
-    ],
-    "status": "completed"
-  }
-}
-
-## Frontend gebruiken
-
-1. Open index.html in je browser  
-2. Vul een e-mailadres in  
-3. Bekijk het gesimuleerde resultaat  
-
-Gebruik eventueel de Live Server extensie in VSCode voor gemak.
 
 ## Roadmap (toekomst)
 
