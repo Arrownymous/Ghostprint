@@ -23,10 +23,10 @@ Ghostprint helpt je te begrijpen waar jouw e-mailadres mogelijk online opduikt. 
 ---
 
 ghostprint/
-├── main.py # Flask backend
-├── index.html # Eenvoudige frontend
-├── scans/ # Output map met scanresultaten (.json)
+├── main.py             # Flask backend
+├── index.html          # Eenvoudige frontend
+├── scans/              # Output map met scanresultaten (.json)
 ├── .gitignore
 ├── README.md
-└── requirements.txt # (optioneel, zie onder)
+└── requirements.txt    # (optioneel, zie onder)
 
