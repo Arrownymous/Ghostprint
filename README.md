@@ -26,7 +26,7 @@ Ghostprint wil een **eenvoudige, veilige en effectieve** manier bieden om iemand
 
 ---
 
-## Roadmap (toekomst)
+## 🗺 Roadmap (toekomst)
 
 - MVP met fake resultaten
 - Integratie met Sherlock voor OSINT-scan
