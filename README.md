@@ -35,9 +35,7 @@ Ghostprint helpt je te begrijpen waar jouw e-mailadres mogelijk online opduikt. 
 MIT License — vrij te gebruiken, aan te passen en commercieel in te zetten.  
 Zie het LICENSE-bestand voor details.
 
-## Gemaakt door
-
-Stijn Schoonderwoerd  
-Contact  LinkedIn
+## ✉️ Contact
+Made with ❤️ by Stijn Schoonderwoerd
 
 > "In een wereld waarin alles online blijft, helpt Ghostprint je om weer even onzichtbaar te worden."
